@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm snoozyyxv</h1>
-<h3 align="center">I'm snoozyyxv, an aspiring Web Developer since 2024 🕸️</h3>
+<h1 align="center">Hi 👋, I'm Kaden</h1>
+<h3 align="center">I'm Kaden, an aspiring Web Developer since 2024 🕸️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snoozyyxv&label=Profile%20views&color=0e75b6&style=flat" alt="snoozyyxv" /> </p>
 
